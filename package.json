@@ -1,0 +1,28 @@
+{
+  "name": "laravel-mix-purge-svg",
+  "version": "1.0.0",
+  "description": "PurgeSVG wrapper for Laravel Mix",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Media24si/laravel-mix-purge-svg.git"
+  },
+  "keywords": [
+    "optimization",
+    "remove",
+    "unused",
+    "svg",
+    "purge",
+    "laravel-mix",
+    "purge-svg"
+  ],
+  "author": "Adam Stradovnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Media24si/laravel-mix-purge-svg/issues"
+  },
+  "homepage": "https://github.com/Media24si/laravel-mix-purge-svg#readme",
+  "dependencies": {
+    "purgesvg-webpack-plugin": "^1.0.1"
+  }
+}
