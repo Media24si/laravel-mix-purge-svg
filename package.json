@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-purge-svg",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "PurgeSVG wrapper for Laravel Mix",
   "main": "index.js",
   "repository": {
