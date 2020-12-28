@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Media24si/laravel-mix-purge-svg#readme",
   "dependencies": {
-    "purgesvg-webpack-plugin": "^1.0.1"
+    "purgesvg-webpack-plugin": "^2.0"
   }
 }
